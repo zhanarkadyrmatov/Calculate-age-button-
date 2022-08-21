@@ -1,0 +1,13 @@
+.error__text {
+  display: none;
+  color: red;
+}
+
+.result {
+  color: blue;
+}
+
+.result_container {
+  display: none;
+  color: green;
+}
